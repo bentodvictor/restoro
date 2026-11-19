@@ -2,6 +2,26 @@
   "name": "restoro",
   "private": true,
   "version": "0.1.0",
+  "description": "Ultra-minimal desktop Pomodoro & Rest stopwatch built with Tauri v2, React, TypeScript, and Tailwind CSS.",
+  "license": "MIT",
+  "author": "Victor Dallagnol Bento",
+  "homepage": "https://github.com/bentodvictor/restoro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bentodvictor/restoro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bentodvictor/restoro/issues"
+  },
+  "keywords": [
+    "pomodoro",
+    "timer",
+    "stopwatch",
+    "rest",
+    "tauri",
+    "react",
+    "desktop"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",

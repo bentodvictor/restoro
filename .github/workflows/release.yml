@@ -61,6 +61,6 @@ jobs:
           tagName: v__VERSION__
           releaseName: "Restoro v__VERSION__"
           releaseBody: "Instaladores para Windows (.exe / .msi), macOS (.dmg / .app) e Linux (.deb / .rpm / .AppImage)."
-          releaseDraft: true
+          releaseDraft: false
           prerelease: false
           args: ${{ matrix.args }}
